@@ -179,7 +179,7 @@ If you find MedEViT-SAM useful in your research, please cite our paper:
 ```bibtex
 @article{diraz2026medevitsam,
   title={MedEViT-SAM: A Unified Foundation Model for Multi-Task Medical Image Segmentation},
-  author={Diraz, Tanvir Ahmed and Islam, Md. Saiful and Hossain, Nurul Amin and Shuvo, Md Moniruzzaman},
+  author={Diraz, Tanvir Ahmed and Islam, Md. Saiful and Hossain, Niamat Ullah Ibne and Shuvo, Md Maruf Hossain},
   journal={IEEE Journal of Biomedical and Health Informatics},
   year={2026}
 }
