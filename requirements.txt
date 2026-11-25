@@ -1,0 +1,24 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio
+
+# Computer Vision & Medical Image Processing
+nibabel>=5.0.0
+opencv-python>=4.7.0
+albumentations>=1.3.0
+scikit-image>=0.20.0
+scipy>=1.10.0
+numpy>=1.23.0
+
+# Transformer Backbones & Efficiency Profiling
+timm>=0.9.0
+einops>=0.6.0
+thop>=0.1.1
+
+# Evaluation, Data & Plotting
+pandas>=2.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+tqdm>=4.65.0
+psutil>=5.9.0

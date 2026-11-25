@@ -1,0 +1,48 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.conda/
+
+# Checkpoints & Model Weights (Share large files via HuggingFace / Zenodo)
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Datasets and Precomputed Slice Caches
+data/msd/
+msd_dataset/
+msd_slice_cache*/
+*.nii
+*.nii.gz
+*.npz
+
+# Logs & Experiment tracking
+runs/
+wandb/
+*.log
+logs/
+
+# IDE & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Output artifacts
+outputs/
+prediction_overlay.png
+holdout_evaluation*.json
+holdout_evaluation*.csv
