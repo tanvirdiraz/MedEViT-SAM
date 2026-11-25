@@ -71,7 +71,7 @@ Github_medEvit/
 
 ### Setup Environment
 ```bash
-git clone https://github.com/<your-username>/MedEViT-SAM.git
+git clone https://github.com/tanvirdiraz/MedEViT-SAM.git
 cd MedEViT-SAM
 
 conda create -n medevit python=3.10 -y
