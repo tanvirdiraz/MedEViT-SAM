@@ -165,8 +165,8 @@ All ablation studies and efficiency benchmarks reported in the paper can be repr
 ## Pretrained Weights
 
 Pretrained model weights (`best_model_dice.pth`, 139 MB) are available at:
-* **Hugging Face:** `[Insert Hugging Face Repo Link]`
-* **Zenodo / Google Drive:** `[Insert Download Link]`
+
+* **Google Drive:** [Download `best_model_dice.pth` (139 MB)](https://drive.google.com/file/d/11koyzYoo2ayfwGs5wOBPy_pYkDQLkG_y/view?usp=sharing)
 
 Place the downloaded weights file in `./checkpoints/medevitsam_unified/best_model_dice.pth`.
 
