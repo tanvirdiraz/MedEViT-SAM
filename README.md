@@ -174,16 +174,7 @@ Place the downloaded weights file in `./checkpoints/medevitsam_unified/best_mode
 
 ## Citation
 
-If you find MedEViT-SAM useful in your research, please cite our paper:
-
-```bibtex
-@article{diraz2026medevitsam,
-  title={MedEViT-SAM: A Unified Foundation Model for Multi-Task Medical Image Segmentation},
-  author={Diraz, Tanvir Ahmed and Islam, Md. Saiful and Hossain, Niamat Ullah Ibne and Shuvo, Md Maruf Hossain},
-  journal={IEEE Journal of Biomedical and Health Informatics},
-  year={2026}
-}
-```
+*This manuscript is currently under review. Complete citation details and DOI will be updated upon publication.*
 
 ---
 
